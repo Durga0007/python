@@ -18,6 +18,7 @@ MENTOR NAME : NEELA SANTOSH
 ![Image](https://github.com/user-attachments/assets/7dea54a7-5e19-4a01-aebc-53ec53b37a43)
 
 Project Overview:
+
 This project integrates the CoinGecko API to fetch real-time cryptocurrency data (Bitcoin and Ethereum), processes the data using Python, and visualizes it through static and interactive bar charts to compare their prices and market caps. The visualization is done using libraries like `Matplotlib`, `Seaborn`, and `Plotly` for an engaging user experience.
 
 Key Objectives:
