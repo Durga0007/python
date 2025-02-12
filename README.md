@@ -21,8 +21,6 @@ Project Overview:
 This project integrates the CoinGecko API to fetch real-time cryptocurrency data (Bitcoin and Ethereum), processes the data using Python, and visualizes it through static and interactive bar charts to compare their prices and market caps. The visualization is done using libraries like `Matplotlib`, `Seaborn`, and `Plotly` for an engaging user experience.
 
 Key Objectives:
-The key objectives of this project are:
-
 1. API Integration: Fetch real-time cryptocurrency data (Bitcoin and Ethereum) from the CoinGecko API to gain insights into market performance.
 2. Data Processing: Clean and structure the fetched data using Python (via `pandas`) for easy analysis and visualization.
 3. Data Visualization: Create clear, informative visual representations (bar charts) comparing the prices and market caps of Bitcoin and Ethereum using `Matplotlib`, `Seaborn`, and `Plotly`.
